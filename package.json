@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator-by-jemima-siddiqui",
+  "version": "1.0.0",
+  "description": "Team profile generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JemimaSiddiqui/Team-Profile-Generator-by-Jemima-Siddiqui.git"
+  },
+  "keywords": [
+    "team",
+    "profile",
+    "generator"
+  ],
+  "author": "Jemima Siddiqui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JemimaSiddiqui/Team-Profile-Generator-by-Jemima-Siddiqui/issues"
+  },
+  "homepage": "https://github.com/JemimaSiddiqui/Team-Profile-Generator-by-Jemima-Siddiqui#readme",
+  "dependencies": {
+    "inquirer": "^8.2.3"
+  },
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
